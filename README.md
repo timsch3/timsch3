@@ -1,7 +1,7 @@
 ### Heyhey 👋
 <br>
 
-🌱 I’m a soon-to-be Web Developer attending the Fullstack Web Development Bootcamp by [Super-Code](https://super-code.de/)
+🌱 I’m a soon-to-be Web Developer attending the Fullstack Web Development Bootcamp by [Super-Code](https://super-code.de/) until November 2021
 
 🎮 I also love gaming and fiddle around with the [Godot game engine](https://godotengine.org/)
 
