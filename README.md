@@ -11,8 +11,8 @@
 <a href="https://nodejs.org/"><img src="https://timschilling.net/github-readme-logos/nodedotjs.svg" alt="Node.js" width="30" height="30"></a> &nbsp; 
 <a href="https://www.mongodb.com/"><img src="https://timschilling.net/github-readme-logos/mongodb.svg" alt="MongoDB" width="30" height="30"></a>
 
-🎮 I also love games like RimWorld, Stardew Valley or Terraria and fiddle around with the [Godot game engine](https://godotengine.org/)
+🎮 Fiddling around with the [Godot game engine](https://godotengine.org/) is another thing I enjoy
 
 🎹 And last but not least I'm a musician. Give it a listen if you like: [Tim Beau](https://soundcloud.com/timbeau/sets) (scroll the playlists for various genres)
 
-The rest of my time I spend cooking up some homemade soulfood 🍔😋
+The rest of my time I spend with my dog, playing some survival / building / crafting games or cooking up some homemade soulfood 🍔😋
