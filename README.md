@@ -1,7 +1,7 @@
 ### Heyhey 👋
 <br>
 
-💻 I’m a Frontend Web Developer looking for a job at a socially and environmentally responsible company where I'll be able to work remotely – these are the tools I use:
+💻 I’m a Junior Frontend Developer working remotely – these are the tools I use:
 
 <a href="https://html.spec.whatwg.org/dev/"><img src="https://timschilling.net/github-readme-logos/html5.svg" alt="HTML5" width="30" height="30"></a> &nbsp; 
 <a href="https://www.w3.org/Style/CSS/"><img src="https://timschilling.net/github-readme-logos/css3.svg" alt="CSS3" width="30" height="30"></a> &nbsp; 
