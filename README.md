@@ -8,8 +8,7 @@
 <a href="https://262.ecma-international.org/12.0/"><img src="https://timschilling.net/github-readme-logos/javascript.svg" alt="JavaScript" width="30" height="30"></a> &nbsp; 
 <a href="https://sass-lang.com/"><img src="https://timschilling.net/github-readme-logos/sass.svg" alt="SASS" width="30" height="30"></a> &nbsp; 
 <a href="https://reactjs.org/"><img src="https://timschilling.net/github-readme-logos/react.svg" alt="React" width="30" height="30"></a> &nbsp; 
-<a href="https://nodejs.org/"><img src="https://timschilling.net/github-readme-logos/nodedotjs.svg" alt="Node.js" width="30" height="30"></a> &nbsp; 
-<a href="https://www.mongodb.com/"><img src="https://timschilling.net/github-readme-logos/mongodb.svg" alt="MongoDB" width="30" height="30"></a>
+<a href="https://nodejs.org/"><img src="https://timschilling.net/github-readme-logos/nodedotjs.svg" alt="Node.js" width="30" height="30"></a> &nbsp;
 
 🎮 Fiddling around with the [Godot game engine](https://godotengine.org/) is another thing I enjoy
 
