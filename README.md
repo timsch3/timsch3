@@ -14,5 +14,3 @@
 🎮 Fiddling around with the [Godot game engine](https://godotengine.org/) is another thing I enjoy
 
 🎹 And last but not least I'm a musician. Give it a listen if you like: [Tim Beau](https://soundcloud.com/timbeau/sets) (scroll the playlists for various genres)
-
-The rest of my time I spend with my girlfriend and our dog, playing some survival / building / crafting games or cooking up some homemade soulfood 🍔😋
