@@ -1,8 +1,8 @@
-### Heyhey 👋
+### Hey 👋
 <br>
 
-💻 I’m a Web Developer working remotely.
+💻 I work remotely as a Web Developer, love building frontends using modern JS-based frameworks and CSS but also have experience with PHP and MySQL.
 
 🎮 Fiddling around with the [Godot game engine](https://godotengine.org/) is another thing I enjoy.
 
-🎹 And last but not least I'm a musician. Give it a listen if you like: [Tim Beau](https://soundcloud.com/timbeau/sets) (scroll the playlists for various genres).
+🎹 And last but not least I make music: [Tim Beau](https://soundcloud.com/timbeau/sets) (scroll the playlists for various genres).
