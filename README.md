@@ -1,7 +1,7 @@
 ### Hey 👋
 <br>
 
-💻 I work remotely as a Web Developer, love building frontends using modern JS-based frameworks and (S)CSS but also have experience with PHP and MySQL.
+💻 I work remotely as a Web Developer / Fullstack Engineer, love building frontends using modern JS-based frameworks and CSS but also have experience in good old PHP and MySQL.
 
 🎮 Fiddling around with the [Godot game engine](https://godotengine.org/) is another thing I enjoy.
 
